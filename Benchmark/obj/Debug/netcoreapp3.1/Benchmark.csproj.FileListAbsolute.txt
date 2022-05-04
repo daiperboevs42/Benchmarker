@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.exe
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.deps.json
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.runtimeconfig.json
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.dll
+C:\Users\Martin\source\repos\Benchmark\Benchmark\bin\Debug\netcoreapp3.1\Benchmark.pdb
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.dll
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.pdb
+C:\Users\Martin\source\repos\Benchmark\Benchmark\obj\Debug\netcoreapp3.1\Benchmark.genruntimeconfig.cache
