@@ -10,6 +10,7 @@ namespace Benchmark
     public class Requestmaker
     {
         private static HttpClient client;
+        public static int numberOfinvokes = 0;
         public Requestmaker()
         {
             client = new HttpClient();
@@ -30,6 +31,8 @@ namespace Benchmark
             if (response.IsSuccessStatusCode)
             {
                 placeholder = await response.Content.ReadAsStringAsync();
+                numberOfinvokes += 1;
+                System.Console.WriteLine("Number of times called: {0}", ++numberOfinvokes);
             }
             ShowResponse(placeholder);
             return placeholder;

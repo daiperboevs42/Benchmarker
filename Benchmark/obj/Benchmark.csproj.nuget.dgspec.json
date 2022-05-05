@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\source\\repos\\Benchmark\\Benchmark\\Benchmark.csproj": {}
+    "C:\\Users\\tiene\\Desktop\\Software Development\\System Integration\\Repositories\\Assignments\\Compulsory 2\\Benchmarker\\Benchmark\\Benchmark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\source\\repos\\Benchmark\\Benchmark\\Benchmark.csproj": {
+    "C:\\Users\\tiene\\Desktop\\Software Development\\System Integration\\Repositories\\Assignments\\Compulsory 2\\Benchmarker\\Benchmark\\Benchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\Benchmark\\Benchmark\\Benchmark.csproj",
+        "projectUniqueName": "C:\\Users\\tiene\\Desktop\\Software Development\\System Integration\\Repositories\\Assignments\\Compulsory 2\\Benchmarker\\Benchmark\\Benchmark.csproj",
         "projectName": "Benchmark",
-        "projectPath": "C:\\Users\\Martin\\source\\repos\\Benchmark\\Benchmark\\Benchmark.csproj",
-        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\source\\repos\\Benchmark\\Benchmark\\obj\\",
+        "projectPath": "C:\\Users\\tiene\\Desktop\\Software Development\\System Integration\\Repositories\\Assignments\\Compulsory 2\\Benchmarker\\Benchmark\\Benchmark.csproj",
+        "packagesPath": "C:\\Users\\tiene\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiene\\Desktop\\Software Development\\System Integration\\Repositories\\Assignments\\Compulsory 2\\Benchmarker\\Benchmark\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiene\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
