@@ -11,7 +11,11 @@ namespace Benchmark
         {
             try
             {
-                for (int i = 0; i < 5; i++)
+                Console.WriteLine("Press C, if you dare!");
+                Console.WriteLine("Write a number of calls you want to make!");
+                int numberCount = Convert.ToInt32(Console.ReadLine());
+
+                for (int i = 0; i < numberCount; i++)
                     Requestmaker.GetResponse().GetAwaiter().GetResult();
             }
             catch
@@ -26,8 +30,8 @@ namespace Benchmark
                 cancellationTokenSource.Cancel();
                 System.Console.WriteLine("Number of times called: {0}", ++Requestmaker.numberOfinvokes);
             }
+          
 
-            
 
         }
     }
