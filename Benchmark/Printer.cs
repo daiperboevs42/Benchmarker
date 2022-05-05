@@ -11,7 +11,7 @@ namespace Benchmark
         {
             try
             {
-                Console.WriteLine("Press C, if you dare!");
+                Console.WriteLine("Press C for CANCEL, if you dare!");
                 Console.WriteLine("Write a number of calls you want to make!");
                 int numberCount = Convert.ToInt32(Console.ReadLine());
 
