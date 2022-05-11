@@ -26,9 +26,9 @@ namespace Benchmark
             var cancellationTokenSource = new CancellationTokenSource();
             if ( key.Key == ConsoleKey.C)
             {
-                // Cancel the task 
+                // Cancel the task upon click
                 cancellationTokenSource.Cancel();
-                System.Console.WriteLine("Number of times called: {0}", ++Requestmaker.numberOfinvokes);
+                System.Console.WriteLine("Number of times called: {0}", Requestmaker.numberOfinvokes);
             }
           
 
